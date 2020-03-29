@@ -1,0 +1,22 @@
+{
+  "name": "learning-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craftyworks/learning-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craftyworks/learning-javascript/issues"
+  },
+  "homepage": "https://github.com/craftyworks/learning-javascript#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
